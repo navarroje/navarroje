@@ -1,110 +1,101 @@
-<!-- A professional, friendly headshot -->
-<img src="URL_TO_YOUR_HEADSHOT.jpg" alt="Jorge Pérez Navarro" width="200" align="right">
+<!-- 
+  This is the source code for my professional portfolio, available at navarroje.com.
+  Designed as a single-page narrative to showcase my journey and capabilities.
+  Version 0.1
+-->
+
+<div align="center">
+  <img src="URL_TO_YOUR_LINKEDIN_BANNER_IMAGE.png" alt="Jorge Eliécer Pérez Navarro - Project Manager Banner" width="100%">
+</div>
 
 # Jorge Eliécer Pérez Navarro
-### Project Manager & Game Designer | Navigating Complexity, Delivering Worlds.
+### Project Manager & Systems Designer
 
-A versatile and results-driven project manager with over 6 years of experience connecting disparate stars of experience—from the tangible world of industrial design to the complex systems of agile game production.
-
-My mission is to navigate the chaos of creation. I use a human-first philosophy as my North Star, ensuring that every decision serves the team I lead and the users we create for. By charting clear roadmaps and leveraging innovative workflows, I turn ambitious visions into successfully delivered realities.
-
-**[> LinkedIn](https://linkedin.com/in/navarroje) | [> Email Me](mailto:contact@navarroje.com) | [> Download Full Service Record (CV)](URL_TO_YOUR_PDF_CV)**
-
----
-
-## The Constellation: A Catalog of Missions
-
-My career has been a journey through diverse systems and creative challenges. Each role represents a key star in my professional constellation.
-
-<br>
-
-### ★ Reconnaissance & Systems Analysis (2024 – Present)
-#### **Freelance Consultant | Project Management & Product Design**
-
-Post-mission, I engaged in deep-space reconnaissance of the F2P casual games market and took on independent contracts to sharpen my skills.
-
-*   **Market Analysis:** Deconstructed top-performing F2P mobile titles to build a comprehensive understanding of **LiveOps** scheduling, **monetization mechanics**, and core **retention strategies**.
-*   **Performance Marketing Study:** Analyzed modern **User Acquisition (UA)** funnels and key metrics (CPI, LTV, ROAS) that drive profitable growth.
-*   **Physical & Digital PM:** Managed small-scale ventures, including a residential renovation project (budgeting, sourcing, contractors) and an e-commerce setup.
+<p align="center">
+  <a href="https://www.linkedin.com/in/navarroje" target="_blank">LinkedIn</a> • 
+  <a href="mailto:contact@navarroje.com">Email</a> • 
+  <a href="URL_TO_YOUR_CV_PDF.pdf" target="_blank">Download Full CV</a>
+</p>
 
 ---
 
-### ★ Mission Command (2021 – 2024)
-#### **Game Producer & Associate Producer | KILLSOFT**
+## A Human-First Approach to Navigating Complexity
 
-As a key member of the command crew at a remote-first studio, I demonstrated clear progression and was trusted with high-stakes missions.
+With over 6 years of experience spanning the tangible world of **industrial design** and the complex systems of **agile game production**, I don't just manage projects; I bring them to life. My philosophy is built on a human-first approach, whether I'm designing a physical product, leading a remote development team, or creating a system to support a loved one.
 
-*   **Lead Producer (2023-2024):** Led production for a proprietary PC game, commanding a crew of up to 20 across all departments. Owned project schedules, defined milestones, and managed all QA processes from analysis to execution.
-*   **Associate Producer (2021-2022):** Managed production timelines and sprints for a high-profile, NDA mobile title commissioned by **Netflix**, ensuring all client milestones were successfully met.
+My expertise lies in turning ambitious creative challenges into streamlined, actionable plans. I believe the best products are born from clear communication, efficient systems, and a deep understanding of the people who will use them.
 
 ---
 
-### ★ The Sabbatical (2019 – 2021)
-#### **Game Designer & World-Builder | Self-Directed Creative Projects**
+## I. Professional Case Studies: From Concept to Delivery
 
-I embarked on a deliberate creative sabbatical to pivot from industrial design to game development, focusing on independent creation and systems architecture.
+Here is a selection of projects demonstrating my capabilities in full-cycle project management.
 
-*   **TTRPG System Design:** Architected a complete tabletop RPG system from the ground up, writing extensive documentation and creating a framework for future expansion.
-*   **Information Architecture:** Acted as a "lore keeper," honing skills in knowledge management and building complex, interconnected databases using **Notion**.
-*   **Publisher Brand Creation:** Established **Navarro Game Studio** as the professional publishing entity for all independent works.
+### Case Study 1: Game Production for a Global Streaming Leader
+*   **Project:** NDA Mobile Title commissioned by **Netflix**
+*   **Role:** Game Producer (KILLSOFT)
+*   **The Challenge:** To lead a cross-functional team of 20+ artists, programmers, and designers through the entire development cycle, ensuring all contractual milestones were met on time and to the client's exacting standards.
+*   **My Process & Contribution:** As the central hub for the project, I owned the production schedule, managed sprints using Agile methodologies, and facilitated all communication between departments. A key focus was proactive bottleneck resolution—identifying potential roadblocks in the art or engineering pipelines weeks in advance and reallocating resources to maintain momentum.
+*   **Artifacts of Production:**
+    *   **Project Roadmap:** *[Placeholder for a clean, visual graphic of the project timeline from pre-production to delivery]*
+    *   **Kanban Workflow:** *[Placeholder for a professional-looking screenshot of a sample Trello/Jira board showing the sprint workflow]*
 
----
-
-### ★ The Foundation (2016 – 2019)
-#### **Industrial Designer & Production Lead | Digiprint**
-
-My career began by building tangible worlds, establishing a strong foundation in client-facing project management, manufacturing processes, and design software.
-
-*   **Production Lead (2017-2019):** Managed diverse industrial design projects from initial client brief to final delivery, overseeing budgets, quality control, and cross-functional team coordination.
-*   **Junior Designer (2016-2017):** Contributed to the design of Point-of-Purchase (POP) displays and experiential event structures, gaining proficiency in **Photoshop, Illustrator, SketchUp, and SolidWorks**.
-
----
-
-## The Foundry: Published Works & Prototypes
-
-This is the stellar nursery where new worlds are born. Under the **Navarro Game Studio** banner, I publish independent games and tools. My current creative line, **El Camino de Hierro**, explores themes of hidden horror and beautiful decay.
-
-[![Navarro Game Studio on Itch.io](URL_TO_YOUR_ITCH_IO_BANNER_IMAGE.jpg)](https://navarrogamestudio.itch.io)
-
-**[> Explore All Published Projects on Itch.io](https://navarrogamestudio.itch.io)**
+### Case Study 2: Holistic System Design (The Ancestral Kitchen)
+*   **Project:** A comprehensive nutritional system to support a family member's health.
+*   **Role:** Systems Designer & Project Manager
+*   **The Challenge:** To design and implement a complete nutritional framework based on traditional techniques and natural, anti-inflammatory foods. This was a high-stakes project with the most important stakeholder imaginable.
+*   **My Process & Contribution:** This project required a blend of deep research, supply chain management (sourcing organic ingredients from local producers), process optimization (iterative recipe development), and constant stakeholder feedback. I created a sustainable, day-to-day operational plan that was both effective and manageable.
+*   **The Outcome:** The successful implementation of this system played a key role in supporting my mother's health and well-being during a critical time, demonstrating that solid project management principles can create profound human impact.
 
 ---
 
-## Mission Debriefings: Portfolio Case Studies
+## II. Creative Concepts & Independent Design
 
-### 1. The "Human-First" Mission: The Ancestral Kitchen
-*A Holistic System Design project that demonstrates research, supply chain management, and high-stakes stakeholder management in a real-world, life-critical scenario.*
+A showcase of my passion for design and my workflow for turning ideas into reality.
 
-**(Include a short paragraph and an image or two about the project here)**
-
-### 2. Conceptual Designs: Industrial Design Explorations
-*A collection of "One-Pager" design documents for innovative product ideas, developed using modern, AI-assisted visualization workflows.*
-
-**(Include 2-3 of your best "One-Pager" images here)**
-
-### 3. The Armory: Project Management Artifacts
-*A gallery of "mockup projects" demonstrating my expertise in building clean, intuitive, and powerful organizational systems in tools like Notion and Trello.*
-
-**(Include screenshots of your best Notion dashboards and Trello boards here)**
+### Conceptual Industrial Design
+*   **Objective:** To continuously explore new product ideas using modern, AI-driven workflows to rapidly move from concept to photorealistic visualization.
+*   **Showcase:**
+    *   **Project 1: The AURA Smart Air Purifier:** *[Placeholder for the "One-Pager" image for this project]*
+    *   **Project 2: Modular Home Office System:** *[Placeholder for the "One-Pager" image for this project]*
+    *   **Project 3: Ergonomic Gaming Peripheral:** *[Placeholder for the "One-Pager" image for this project]*
 
 ---
 
-## Hailing Frequencies Open
+## III. Shippable Products & Independent Studio Work
 
-Ready to discuss your next mission? Whether you're planning a complex project or exploring a new creative frontier, I'm ready to help you navigate the journey.
+In 2019, I embarked on a creative sabbatical to fully pivot into the world of game design. This led to the creation of **Navarro Game Studio**, my independent label for TTRPGs and campaign management tools.
 
-**[> Send Transmission (contact@navarroje.com)](mailto:contact@navarroje.com)**
-<!--
-**navarroje/navarroje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Navarro Game Studio
+*   **My Brand:** The public-facing creative imprint for my horror games is **"El Camino de Hierro,"** focusing on themes of "Hidden Horror" and "Beautiful Decay." This is expressed through a signature UI concept I developed called **"The Butterfly Trap."**
+*   **My Work:** I am a one-person studio, handling all aspects of production from system design and world-building to writing, layout, and digital publication.
+*   **Explore My Published Works:** I invite you to explore my projects on Itch.io, where you can find rulebooks, guides, and Notion templates designed for game masters and players.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://navarrogamestudio.itch.io" target="_blank">
+    <img src="URL_TO_YOUR_ITCH.IO_BANNER_OR_LOGO.png" alt="Navarro Game Studio on Itch.io" width="300">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## IV. The Project Manager's Toolkit (Skills Gallery)
+
+I believe that organization is a form of art. A well-designed system empowers a team to do their best work. Here are examples of the project management artifacts I build.
+
+*   **Notion Dashboards:** *[Placeholder for a clean screenshot of a beautifully organized Notion dashboard for project management]*
+*   **Trello Boards for Agile Sprints:** *[Placeholder for a screenshot of a well-structured Trello board]*
+*   **Project Documentation:** *[Placeholder for a screenshot of a well-formatted page from a Game Design Document (GDD) or similar]*
+
+---
+
+## Let's Build Something Remarkable
+
+I am always open to discussing new opportunities, freelance projects, or just talking about good design. If you have a project that could benefit from a human-first, systems-oriented approach, I'd love to hear from you.
+
+<p align="center">
+  <strong><a href="mailto:contact@navarroje.com">contact@navarroje.com</a></strong>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/navarroje" target="_blank">Connect with me on LinkedIn</a>
+</p>
