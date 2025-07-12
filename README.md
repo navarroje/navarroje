@@ -9,7 +9,7 @@
     font-weight: 400; /* Regular Weight */
     color: #323755; /* Soft Dark Blue Text Color */
     padding: 40px;
-    text-align: left; /* Center align for a landing page feel */
+
   }
 
   /* Style the main title - bigger, no shadow */
@@ -18,9 +18,17 @@
     font-weight: 900; /* Black Weight */
     color: #FFFFFF; /* White Title Color */
     font-size: 3.5em; /* Made bigger */
-    /* text-shadow has been removed */
+    text-align: center; /* Center align for a landing page feel */
   }
 
+  /* Style the subtitle */
+  h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.5em;
+    margin-top: -15px; /* Pull it closer to the main title */
+  }
+  
   /* Style the subtitle - with white background and dark border */
   h3 {
     font-family: 'Poppins', sans-serif;
@@ -33,6 +41,7 @@
     border-radius: 8px; /* Soften corners */
     padding: 5px 15px; /* Add space around the text */
     display: inline-block; /* Make the background only as wide as the text */
+    text-align: center; /* Center align for a landing page feel */
   }
 
   /* Style the links container - white background and dark border */
@@ -42,7 +51,7 @@
       padding: 20px;
       background-color: #FFFFFF; /* White background */
       border: 3px solid #080A44; /* Dark Navy border */
-      border-radius: 15px;
+      border-radius: 5px;
       /* Using flexbox to align the links nicely */
       display: flex;
       justify-content: center;
