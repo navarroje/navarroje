@@ -4,10 +4,10 @@
 
   /* Style the entire page to your brand guide */
   body {
-    background-color: #FCF9F3;
+    background-color: #323755;
     font-family: 'Poppins', sans-serif; /* Your Text Font */
     font-weight: 500; /* Regular Weight */
-    color: #323755; /* Soft Dark Blue Text Color */
+    color: #FCF7F1; /* Soft Dark Blue Text Color */
     padding: 40px;
     
   }
@@ -16,7 +16,7 @@
   h1 {
     font-family: 'Catamaran', sans-serif; /* Your Title Font */
     font-weight: 900; /* Black Weight */
-    color: #323755; /* White Title Color */
+    color: #FFFFFF; /* White Title Color */
     font-size: 3.5em; /* Made bigger */
     text-align: center;
     margin-down: -15px;
@@ -25,7 +25,7 @@
   /* Style the subtitle */
   h2 {
     font-family: 'Catamaran', sans-serif;
-    color: #323755;
+    color: #F7CFE5;
     font-size: 1.5em;
     margin-top: -15px; /* Pull it closer to the main title */
     
@@ -47,7 +47,7 @@
   
     h4 {
     font-family: 'Poppins', sans-serif;
-    color: #323755;
+    color: #0B80D2;
     font-weight: 300; /* Regular Weight */
     margin-top: -15px; /* Pull it closer to the main title */
     text-align: center; /* Center align for a landing page feel */
@@ -55,12 +55,13 @@
   /* 2. Modify the default <strong> tag to use the ExtraBold weight */
   strong {
     font-weight: 700; /* Use the ExtraBold weight we imported */
+    color: #0B80D2;
   }
 
   /* Style the links container - white background and dark border */
   .link-container {
       max-width: 600px;
-      margin: 10px auto;
+      margin: 3px auto;
       padding: 5px;
       background-color: #FFFFFF; /* White background */
       border: 3px solid #080A44; /* Dark Navy border */
@@ -77,7 +78,7 @@
     color: #323755; /* Soft dark text color */
     font-weight: 800; /* Keep links bold */
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 3px 3px;
     margin: 5px; /* Add space between the links */
     border-radius: 3px;
     transition: color 0.2s ease-in-out;
