@@ -108,15 +108,13 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQF2UVvmir8LnA/profile-displaybackgroundimage-shrink_350_1400/B4EZfwk6YHH0AY-/0/1752087901158?e=1757548800&v=beta&t=mdlCd52d1AIsEkkQlSNDeVxWwGUzAVvuNxKxCs_mk5A" alt="Jorge Eliécer Pérez Navarro - Project Manager Banner" width="100%">
 </div>
 
-# JORGE ELIECER 
-#### P. Navarro
+# JORGE ELIECER P. NAVARRO
 
 ### Game Producer & Project Manager
 
-<p>Welcome to my professional hub. I am currently building my full portfolio.</p>
-<p>In the meantime, you can find my work and get in touch via the links below.</p>
+Welcome to my professional hub. I am currently building my full portfolio. 
+In the meantime, you can find my work and get in touch via the links below.
 
-# Jorge Eliécer Pérez Navarro
 ### Project Manager & Systems Designer
 <div class="link-container">
   <a href="https://navarroje.framer.website/" target="_blank">Full Portfolio</a> •
