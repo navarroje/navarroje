@@ -36,14 +36,13 @@
     font-family: 'Poppins', sans-serif;
     color: #323755; /* Dark text for readability on white */
     font-size: 1.5em;
-    text-align: center; /* Center align for a landing page feel */
     margin-top: -15px; /* Pull it closer to the main title */    
     background-color: #FFFFFF; /* White background */
     background-align: center; /* Center align for a landing page feel */
     border: 3px solid #080A44; /* Dark Navy border */
     border-radius: 8px; /* Soften corners */
     padding: 5px 15px; /* Add space around the text */
-    display: inline-block; /* Make the background only as wide as the text */
+    text-align: center; /* Center align for a landing page feel */
   }
   
     h4 {
@@ -110,12 +109,11 @@
 
 # JORGE ELIECER P. NAVARRO
 
-### Game Producer & Project Manager
+### Project Manager & Systems Designer
 
 Welcome to my professional hub. I am currently building my full portfolio. 
 In the meantime, you can find my work and get in touch via the links below.
 
-### Project Manager & Systems Designer
 <div class="link-container">
   <a href="https://navarroje.framer.website/" target="_blank">Full Portfolio</a> •
   <a href="https://www.linkedin.com/in/navarroje" target="_blank">LinkedIn</a> •
