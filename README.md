@@ -1,57 +1,80 @@
 <style>
   /* Import your official brand fonts from Google Fonts */
-  @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@900&family=Poppins:wght@800&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@900&family=Poppins:wght@400;800&display=swap');
 
   /* Style the entire page to your brand guide */
   body {
     background-color: #05B5FE; /* Vibrant Blue Background */
     font-family: 'Poppins', sans-serif; /* Your Text Font */
-    font-weight: 800; /* ExtraBold Weight */
+    font-weight: 400; /* Regular Weight */
     color: #323755; /* Soft Dark Blue Text Color */
     padding: 40px;
-    text-align: center; /* Center align for a landing page feel */
+    text-align: left; /* Center align for a landing page feel */
   }
 
-  /* Style the main title */
+  /* Style the main title - bigger, no shadow */
   h1 {
     font-family: 'Catamaran', sans-serif; /* Your Title Font */
     font-weight: 900; /* Black Weight */
     color: #FFFFFF; /* White Title Color */
-    font-size: 2.5em; /* Make it bigger */
-    text-shadow: 2px 2px 4px #080A44; /* Add a subtle navy shadow for depth */
+    font-size: 3.5em; /* Made bigger */
+    /* text-shadow has been removed */
   }
 
-  /* Style the subtitle */
+  /* Style the subtitle - with white background and dark border */
   h2 {
     font-family: 'Poppins', sans-serif;
-    color: #FFFFFF;
+    color: #323755; /* Dark text for readability on white */
     font-size: 1.5em;
+    font-weight: 800; /* Keep subtitle bold */
     margin-top: -15px; /* Pull it closer to the main title */
+    background-color: #FFFFFF; /* White background */
+    border: 3px solid #080A44; /* Dark Navy border */
+    border-radius: 8px; /* Soften corners */
+    padding: 5px 15px; /* Add space around the text */
+    display: inline-block; /* Make the background only as wide as the text */
   }
 
-  /* Style the links */
-  a {
-    color: #FFFFFF; /* White links for high contrast */
+  /* Style the links container - white background and dark border */
+  .link-container {
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #FFFFFF; /* White background */
+      border: 3px solid #080A44; /* Dark Navy border */
+      border-radius: 15px;
+      /* Using flexbox to align the links nicely */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap; /* Allows links to wrap on smaller screens */
+  }
+
+  /* Style the links - dark, no background, with a hover state */
+  .link-container a {
+    color: #323755; /* Soft dark text color */
+    font-weight: 800; /* Keep links bold */
     text-decoration: none;
-    font-weight: 800;
-    background-color: #080A44; /* Navy background for button feel */
-    padding: 10px 20px;
+    padding: 10px 15px;
+    margin: 10px; /* Add space between the links */
     border-radius: 8px;
-    display: inline-block;
-    margin-top: 15px;
-    transition: transform 0.2s ease;
-  }
-  a:hover {
-    transform: scale(1.05); /* Slight zoom effect on hover */
+    transition: color 0.2s ease-in-out;
+    /* Background is now transparent by default */
   }
 
-  /* Style the main content area */
+  .link-container a:hover {
+    color: #080A44; /* Dark Navy on hover */
+    text-decoration: underline;
+  }
+
+  /* Style the intro text area */
   .content {
       max-width: 600px;
       margin: 40px auto;
-      padding: 30px;
-      background-color: rgba(255, 255, 255, 0.1); /* Frosted glass effect */
+      padding: 15px;
+      background-color: rgba(8, 10, 68, 0.2); /* Transparent dark navy effect */
       border-radius: 15px;
+      color: #FFFFFF; /* White text for this section */
   }
 
 </style>
@@ -66,24 +89,19 @@
 <p>In the meantime, you can find my work and get in touch via the links below.</p>
 </div>
 
-<a href="https://navarroje.framer.website/" target="_blank">View My Full Portfolio</a>
-<a href="https://www.linkedin.com/in/navarroje" target="_blank">Connect on LinkedIn</a>
-<a href="https://navarro-game-studio.itch.io/" target="_blank">View Indie Game Projects</a>
-<a href="mailto:contact@navarroje.com">Contact Me</a>
+
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQF2UVvmir8LnA/profile-displaybackgroundimage-shrink_350_1400/B4EZfwk6YHH0AY-/0/1752087901158?e=1757548800&v=beta&t=mdlCd52d1AIsEkkQlSNDeVxWwGUzAVvuNxKxCs_mk5A" alt="Jorge Eliécer Pérez Navarro - Project Manager Banner" width="100%">
 </div>
 
 # Jorge Eliécer Pérez Navarro
 ### Project Manager & Systems Designer
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/navarroje" target="_blank">LinkedIn</a> • 
-  <a href="mailto:contact@navarroje.com">Email</a> • 
-  <a href="URL_TO_YOUR_CV_PDF.pdf" target="_blank">Download Full CV</a>
-</p>
-
----
+<div class="link-container">
+  <a href="https://navarroje.framer.website/" target="_blank">Full Portfolio</a> •
+  <a href="https://www.linkedin.com/in/navarroje" target="_blank">LinkedIn</a> •
+  <a href="https://navarro-game-studio.itch.io/" target="_blank">Indie Projects</a> •
+  <a href="mailto:contact@navarroje.com">Contact Me</a>
+</div>
 
 ## A Human-First Approach to Navigating Complexity
 
