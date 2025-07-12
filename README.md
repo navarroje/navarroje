@@ -36,6 +36,7 @@
     color: #323755; /* Dark text for readability on white */
     font-size: 1.5em;
     text-align: center; /* Center align for a landing page feel */
+    margin-top: -15px; /* Pull it closer to the main title */
   }
   
     h4 {
