@@ -25,7 +25,7 @@
   /* Style the subtitle */
   h3 {
     font-family: 'Catamaran', sans-serif;
-    color: #0B80D2;
+    color: #F6D0E5;
     font-size: 1.5em;
     margin-top: -15px; /* Pull it closer to the main title */
     text-align: center; /* Center align for a landing page feel */
