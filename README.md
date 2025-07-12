@@ -9,7 +9,7 @@
     font-weight: 500; /* Regular Weight */
     color: #323755; /* Soft Dark Blue Text Color */
     padding: 40px;
-
+    
   }
 
   /* Style the main title - bigger, no shadow */
@@ -19,6 +19,7 @@
     color: #FFFFFF; /* White Title Color */
     font-size: 3.5em; /* Made bigger */
     text-align: center; /* Center align for a landing page feel */
+    margin-down: -15px; /
   }
 
   /* Style the subtitle */
