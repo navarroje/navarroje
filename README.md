@@ -53,14 +53,14 @@
   }
   /* 2. Modify the default <strong> tag to use the ExtraBold weight */
   strong {
-    font-weight: 600; /* Use the ExtraBold weight we imported */
+    font-weight: 700; /* Use the ExtraBold weight we imported */
   }
 
   /* Style the links container - white background and dark border */
   .link-container {
       max-width: 600px;
       margin: 10px auto;
-      padding: 10px;
+      padding: 5px;
       background-color: #FFFFFF; /* White background */
       border: 3px solid #080A44; /* Dark Navy border */
       border-radius: 5px;
