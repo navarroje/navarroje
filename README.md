@@ -23,16 +23,16 @@
   }
 
   /* Style the subtitle */
-  h2 {
+  h3 {
     font-family: 'Catamaran', sans-serif;
-    color: #F7CFE5;
+    color: #0B80D2;
     font-size: 1.5em;
     margin-top: -15px; /* Pull it closer to the main title */
     
   }
   
   /* Style the subtitle - with white background and dark border */
-  h3 {
+  h2 {
     font-family: 'Poppins', sans-serif;
     color: #323755; /* Dark text for readability on white */
     font-size: 1.5em;
@@ -54,7 +54,7 @@
   }
   /* 2. Modify the default <strong> tag to use the ExtraBold weight */
   strong {
-    font-weight: 700; /* Use the ExtraBold weight we imported */
+    font-weight: 600; /* Use the ExtraBold weight we imported */
     color: #0B80D2;
   }
 
