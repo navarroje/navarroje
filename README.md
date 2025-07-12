@@ -28,7 +28,7 @@
     color: #F6D0E5;
     font-size: 1.5em;
     margin-top: -15px; /* Pull it closer to the main title */
-    text-align: center; /* Center align for a landing page feel */
+    text-align: left; /* Center align for a landing page feel */
     
   }
   
@@ -41,7 +41,7 @@
     background-color: #FFFFFF; /* White background */
     background-align: center; /* Center align for a landing page feel */
     border: 3px solid #080A44; /* Dark Navy border */
-    border-radius: 8px; /* Soften corners */
+    border-radius: 10px; /* Soften corners */
     padding: 5px 15px; /* Add space around the text */
     text-align: center; /* Center align for a landing page feel */
   }
@@ -66,7 +66,7 @@
       padding: 5px;
       background-color: #FFFFFF; /* White background */
       border: 3px solid #080A44; /* Dark Navy border */
-      border-radius: 5px;
+      border-radius: 10px;
       /* Using flexbox to align the links nicely */
       display: flex;
       justify-content: center;
@@ -81,7 +81,7 @@
     text-decoration: none;
     padding: 3px 3px;
     margin: 5px; /* Add space between the links */
-    border-radius: 3px;
+    border-radius: 10px;
     transition: color 0.2s ease-in-out;
     /* Background is now transparent by default */
   }
@@ -111,7 +111,7 @@
 
 # JORGE ELIECER P. NAVARRO
 
-### Project Manager & Systems Designer
+## Project Manager & Systems Designer
 
 Welcome to my professional hub. I am currently building my full portfolio. 
 In the meantime, you can find my work and get in touch via the links below.
