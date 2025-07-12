@@ -49,7 +49,7 @@
     h4 {
     font-family: 'Poppins', sans-serif;
     color: #323755;
-    font-weight: 500; /* Regular Weight */
+    font-weight: 300; /* Regular Weight */
     margin-top: -15px; /* Pull it closer to the main title */
     text-align: center; /* Center align for a landing page feel */
   }
