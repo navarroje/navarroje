@@ -4,7 +4,7 @@
 
   /* Style the entire page to your brand guide */
   body {
-    background-color: #05B5FE; /* Vibrant Blue Background */
+    background-color: #FCF9F3;
     font-family: 'Poppins', sans-serif; /* Your Text Font */
     font-weight: 500; /* Regular Weight */
     color: #323755; /* Soft Dark Blue Text Color */
@@ -16,16 +16,16 @@
   h1 {
     font-family: 'Catamaran', sans-serif; /* Your Title Font */
     font-weight: 900; /* Black Weight */
-    color: #FFFFFF; /* White Title Color */
+    color: #323755; /* White Title Color */
     font-size: 3.5em; /* Made bigger */
-    text-align: center; /* Center align for a landing page feel */
-    margin-down: -15px; /
+    text-align: center;
+    margin-down: -15px;
   }
 
   /* Style the subtitle */
   h2 {
     font-family: 'Catamaran', sans-serif;
-    color: #FFFFFF;
+    color: #323755;
     font-size: 1.5em;
     margin-top: -15px; /* Pull it closer to the main title */
     
@@ -48,7 +48,7 @@
   
     h4 {
     font-family: 'Poppins', sans-serif;
-    color: #FFFFFF;
+    color: #323755;
     font-weight: 500; /* Regular Weight */
     margin-top: -15px; /* Pull it closer to the main title */
     text-align: center; /* Center align for a landing page feel */
@@ -109,7 +109,8 @@
 </div>
 
 # JORGE ELIECER 
-#### PÉREZ NAVARRO
+#### P. Navarro
+
 ### Game Producer & Project Manager
 
 <p>Welcome to my professional hub. I am currently building my full portfolio.</p>
