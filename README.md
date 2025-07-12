@@ -23,10 +23,11 @@
 
   /* Style the subtitle */
   h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Catamaran', sans-serif;
     color: #FFFFFF;
     font-size: 1.5em;
     margin-top: -15px; /* Pull it closer to the main title */
+    
   }
   
   /* Style the subtitle - with white background and dark border */
@@ -43,16 +44,30 @@
     display: inline-block; /* Make the background only as wide as the text */
     text-align: center; /* Center align for a landing page feel */
   }
+  
+    h4 {
+    font-family: 'Poppins', sans-serif;
+    color: #323755; /* Dark text for readability on white */
+    font-size: 1.5em;
+    font-weight: 800; /* Keep subtitle bold */
+    margin-top: -15px; /* Pull it closer to the main title */
+    background-color: #FFFFFF; /* White background */
+    border: 3px solid #080A44; /* Dark Navy border */
+    border-radius: 8px; /* Soften corners */
+    padding: 5px 15px; /* Add space around the text */
+    display: inline-block; /* Make the background only as wide as the text */
+    text-align: center; /* Center align for a landing page feel */
+  }
   /* 2. Modify the default <strong> tag to use the ExtraBold weight */
   strong {
-    font-weight: 700; /* Use the ExtraBold weight we imported */
+    font-weight: 600; /* Use the ExtraBold weight we imported */
   }
 
   /* Style the links container - white background and dark border */
   .link-container {
       max-width: 600px;
-      margin: 40px auto;
-      padding: 20px;
+      margin: 10px auto;
+      padding: 10px;
       background-color: #FFFFFF; /* White background */
       border: 3px solid #080A44; /* Dark Navy border */
       border-radius: 5px;
@@ -98,7 +113,8 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQF2UVvmir8LnA/profile-displaybackgroundimage-shrink_350_1400/B4EZfwk6YHH0AY-/0/1752087901158?e=1757548800&v=beta&t=mdlCd52d1AIsEkkQlSNDeVxWwGUzAVvuNxKxCs_mk5A" alt="Jorge Eliécer Pérez Navarro - Project Manager Banner" width="100%">
 </div>
 
-# JORGE ELIECER PÉREZ NAVARRO
+# JORGE ELIECER 
+#### PÉREZ NAVARRO
 ### Game Producer & Project Manager
 
 <p>Welcome to my professional hub. I am currently building my full portfolio.</p>
