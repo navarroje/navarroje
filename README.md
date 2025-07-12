@@ -38,6 +38,7 @@
     text-align: center; /* Center align for a landing page feel */
     margin-top: -15px; /* Pull it closer to the main title */    
     background-color: #FFFFFF; /* White background */
+    background-align: center; /* Center align for a landing page feel */
     border: 3px solid #080A44; /* Dark Navy border */
     border-radius: 8px; /* Soften corners */
     padding: 5px 15px; /* Add space around the text */
