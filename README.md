@@ -22,7 +22,7 @@
   }
 
   /* Style the subtitle - with white background and dark border */
-  h2 {
+  h3 {
     font-family: 'Poppins', sans-serif;
     color: #323755; /* Dark text for readability on white */
     font-size: 1.5em;
@@ -56,14 +56,15 @@
     font-weight: 800; /* Keep links bold */
     text-decoration: none;
     padding: 10px 15px;
-    margin: 10px; /* Add space between the links */
-    border-radius: 8px;
+    margin: 5px; /* Add space between the links */
+    border-radius: 3px;
     transition: color 0.2s ease-in-out;
     /* Background is now transparent by default */
   }
 
   .link-container a:hover {
     color: #080A44; /* Dark Navy on hover */
+    transform: scale(1.05); /* Slight zoom effect on hover */
     text-decoration: underline;
   }
 
@@ -80,19 +81,15 @@
 </style>
 
 <!-- Your content starts here -->
-
-<h1>JORGE ELIECER PÉREZ NAVARRO</h1>
-<h2>Game Producer & Project Manager</h2>
-
-<div class="content">
-<p>Welcome to my professional hub. I am currently building my full portfolio.</p>
-<p>In the meantime, you can find my work and get in touch via the links below.</p>
-</div>
-
-
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQF2UVvmir8LnA/profile-displaybackgroundimage-shrink_350_1400/B4EZfwk6YHH0AY-/0/1752087901158?e=1757548800&v=beta&t=mdlCd52d1AIsEkkQlSNDeVxWwGUzAVvuNxKxCs_mk5A" alt="Jorge Eliécer Pérez Navarro - Project Manager Banner" width="100%">
 </div>
+
+# JORGE ELIECER PÉREZ NAVARRO
+### Game Producer & Project Manager
+
+<p>Welcome to my professional hub. I am currently building my full portfolio.</p>
+<p>In the meantime, you can find my work and get in touch via the links below.</p>
 
 # Jorge Eliécer Pérez Navarro
 ### Project Manager & Systems Designer
