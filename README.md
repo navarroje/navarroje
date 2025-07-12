@@ -6,7 +6,7 @@
   body {
     background-color: #05B5FE; /* Vibrant Blue Background */
     font-family: 'Poppins', sans-serif; /* Your Text Font */
-    font-weight: 400; /* Regular Weight */
+    font-weight: 500; /* Regular Weight */
     color: #323755; /* Soft Dark Blue Text Color */
     padding: 40px;
 
@@ -42,6 +42,10 @@
     padding: 5px 15px; /* Add space around the text */
     display: inline-block; /* Make the background only as wide as the text */
     text-align: center; /* Center align for a landing page feel */
+  }
+  /* 2. Modify the default <strong> tag to use the ExtraBold weight */
+  strong {
+    font-weight: 700; /* Use the ExtraBold weight we imported */
   }
 
   /* Style the links container - white background and dark border */
