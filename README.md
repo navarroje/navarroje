@@ -1,11 +1,77 @@
-<!-- 
-  This is the source code for my professional portfolio, available at navarroje.com.
-  Designed as a single-page narrative to showcase my journey and capabilities.
-  Version 0.1
--->
+<style>
+  /* Import your official brand fonts from Google Fonts */
+  @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@900&family=Poppins:wght@800&display=swap');
 
+  /* Style the entire page to your brand guide */
+  body {
+    background-color: #05B5FE; /* Vibrant Blue Background */
+    font-family: 'Poppins', sans-serif; /* Your Text Font */
+    font-weight: 800; /* ExtraBold Weight */
+    color: #323755; /* Soft Dark Blue Text Color */
+    padding: 40px;
+    text-align: center; /* Center align for a landing page feel */
+  }
+
+  /* Style the main title */
+  h1 {
+    font-family: 'Catamaran', sans-serif; /* Your Title Font */
+    font-weight: 900; /* Black Weight */
+    color: #FFFFFF; /* White Title Color */
+    font-size: 2.5em; /* Make it bigger */
+    text-shadow: 2px 2px 4px #080A44; /* Add a subtle navy shadow for depth */
+  }
+
+  /* Style the subtitle */
+  h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.5em;
+    margin-top: -15px; /* Pull it closer to the main title */
+  }
+
+  /* Style the links */
+  a {
+    color: #FFFFFF; /* White links for high contrast */
+    text-decoration: none;
+    font-weight: 800;
+    background-color: #080A44; /* Navy background for button feel */
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 15px;
+    transition: transform 0.2s ease;
+  }
+  a:hover {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+  }
+
+  /* Style the main content area */
+  .content {
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 30px;
+      background-color: rgba(255, 255, 255, 0.1); /* Frosted glass effect */
+      border-radius: 15px;
+  }
+
+</style>
+
+<!-- Your content starts here -->
+
+<h1>JORGE ELIECER PÉREZ NAVARRO</h1>
+<h2>Game Producer & Project Manager</h2>
+
+<div class="content">
+<p>Welcome to my professional hub. I am currently building my full portfolio.</p>
+<p>In the meantime, you can find my work and get in touch via the links below.</p>
+</div>
+
+<a href="https://navarroje.framer.website/" target="_blank">View My Full Portfolio</a>
+<a href="https://www.linkedin.com/in/navarroje" target="_blank">Connect on LinkedIn</a>
+<a href="https://navarro-game-studio.itch.io/" target="_blank">View Indie Game Projects</a>
+<a href="mailto:contact@navarroje.com">Contact Me</a>
 <div align="center">
-  <img src="URL_TO_YOUR_LINKEDIN_BANNER_IMAGE.png" alt="Jorge Eliécer Pérez Navarro - Project Manager Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQF2UVvmir8LnA/profile-displaybackgroundimage-shrink_350_1400/B4EZfwk6YHH0AY-/0/1752087901158?e=1757548800&v=beta&t=mdlCd52d1AIsEkkQlSNDeVxWwGUzAVvuNxKxCs_mk5A" alt="Jorge Eliécer Pérez Navarro - Project Manager Banner" width="100%">
 </div>
 
 # Jorge Eliécer Pérez Navarro
@@ -72,7 +138,7 @@ In 2019, I embarked on a creative sabbatical to fully pivot into the world of ga
 *   **Explore My Published Works:** I invite you to explore my projects on Itch.io, where you can find rulebooks, guides, and Notion templates designed for game masters and players.
 
 <p align="center">
-  <a href="https://navarrogamestudio.itch.io" target="_blank">
+  <a href="https://navarro-game-studio.itch.io" target="_blank">
     <img src="URL_TO_YOUR_ITCH.IO_BANNER_OR_LOGO.png" alt="Navarro Game Studio on Itch.io" width="300">
   </a>
 </p>
