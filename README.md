@@ -35,21 +35,12 @@
     font-family: 'Poppins', sans-serif;
     color: #323755; /* Dark text for readability on white */
     font-size: 1.5em;
-    font-weight: 800; /* Keep subtitle bold */
-    margin-top: -15px; /* Pull it closer to the main title */
-    background-color: #FFFFFF; /* White background */
-    border: 3px solid #080A44; /* Dark Navy border */
-    border-radius: 8px; /* Soften corners */
-    padding: 5px 15px; /* Add space around the text */
-    display: inline-block; /* Make the background only as wide as the text */
     text-align: center; /* Center align for a landing page feel */
   }
   
     h4 {
     font-family: 'Poppins', sans-serif;
-    color: #323755; /* Dark text for readability on white */
-    font-size: 1.5em;
-    font-weight: 800; /* Keep subtitle bold */
+    color: #FFFFFF;
     margin-top: -15px; /* Pull it closer to the main title */
     background-color: #FFFFFF; /* White background */
     border: 3px solid #080A44; /* Dark Navy border */
